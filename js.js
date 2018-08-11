@@ -414,6 +414,7 @@ const score = {
  */
 const game = {
     config,
+    score,
     map,
     snake,
     food,
